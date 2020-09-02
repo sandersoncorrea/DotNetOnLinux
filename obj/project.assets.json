@@ -733,7 +733,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Microsoft.EntityFrameworkCore.InMemory"
+      "Microsoft.EntityFrameworkCore.InMemory >= 3.1.7"
     ]
   },
   "packageFolders": {
@@ -773,7 +773,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[3.1.7, )"
           }
         },
         "imports": [
